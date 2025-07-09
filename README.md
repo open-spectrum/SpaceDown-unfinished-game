@@ -9,4 +9,4 @@ game online in godot
 <img src="./imgs/p2.png">
 <h2>Image 4</h2>
 <img src="./imgs/p3.png">
-<script>alert("helloe")</script>
+
